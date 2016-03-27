@@ -1,5 +1,4 @@
 def cell_automaton(rule_num, steps):
-    print("Here's an example outputs")
     
     # generate initial row
     
@@ -53,6 +52,7 @@ def cell_automaton(rule_num, steps):
 
 
 # test cases
+print("Here are some example outputs:")
 
 cell_automaton(139, 20)
 
